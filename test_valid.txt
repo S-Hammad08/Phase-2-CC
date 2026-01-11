@@ -1,0 +1,15 @@
+start
+((
+   intval A_ ;;
+   A_ -> 10_ ;;
+   
+   ifit (( A_ ))
+   ((
+       show A_ ;;
+   ))
+   elseit
+   ((
+       show 10_ ;;
+   ))
+))
+del

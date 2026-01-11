@@ -1,0 +1,6 @@
+start
+((
+   intval A_  
+   A_ -> 10_ ;;
+))
+del
